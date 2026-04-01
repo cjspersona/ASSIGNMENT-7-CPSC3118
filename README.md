@@ -1,7 +1,7 @@
 # Measurement Converter GUI
 
 ## Student Name
-Your Name
+CJ Hickson
 
 ## Tools Used
 - Python 3.x
